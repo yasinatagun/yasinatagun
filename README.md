@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my pomodoro app.<br>👯 I’m looking to collaborate on android app projects.<br>🌱 I’m currently learning android app development.<br>💬 Ask me about anything...<br>
+🔭 I’m currently working on my side projects.<br>👯 I’m looking to collaborate on android app projects.<br>🌱 I’m currently learning android app development.<br>💬 Ask me about anything...<br>
 
 
 ## 🌐 Socials:
