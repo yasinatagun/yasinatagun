@@ -30,10 +30,12 @@ I'm a 7/24 learner who believes that every day brings new opportunities to learn
 
 ## 📚 Learning & Growth
 
-- 📖 Currently diving deeper into **Flutter Development**
 - 📝 Exploring **new libraries and frameworks** to enhance app performance
-- 🎯 Goal: **Contribute to open source projects** related to mobile development
-- 
+- 📖 Flutter Mastery: Advancing my skills in Flutter Development to build more immersive and efficient mobile experiences.
+- 🚀 Tech Exploration: Venturing into new libraries and frameworks to boost app performance and user satisfaction.
+- 🌱 Open Source Contribution: Aiming to give back to the community by contributing to open-source projects within the mobile development sphere.
+- 🔍 Broader Horizons: Delving into cross-platform solutions and emerging technologies to stay versatile and innovative.
+  
 ## 📁 Some Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=Contacts-App-BLoC&theme=vue)](https://github.com/yasinatagun/Contacts-App-BLoC)
@@ -50,8 +52,6 @@ I'm a 7/24 learner who believes that every day brings new opportunities to learn
   </tr>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinatagun&theme=radical&layout=compact&card_width=495" width="495" height="195"/></td>
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=yasinatagun&theme=onedark)
-
   </tr>
 </table>
 
