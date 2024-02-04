@@ -1,20 +1,57 @@
-# 💫 About Me:
-🔭 I’m currently working on Flutter & Native Android Development<br>👯 I’m looking to collaborate on mobile app projects<br>🤝 I’m looking for help with Flutter insights<br>🌱 I’m currently learning Flutter <br>💬 Ask me about mobile application development<br>
+# 👋 Hello, I'm Yasin Atagün
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yasinatagun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yasinatagun&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yasinatagun&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Welcome to my GitHub profile! I'm a passionate mobile app developer specializing in Flutter & Native Android development. With a constant learner mindset, I explore new technologies and improve my skills to create impactful mobile applications.
+I'm a 7/24 learner who believes that every day brings new opportunities to learn and grow. In my free time, I enjoy exploring new technologies and contributing to open-source projects.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yasinatagun&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 🚀 About Me
 
----
-[![](https://visitcount.itsvg.in/api?id=yasinatagun&icon=5&color=1)](https://visitcount.itsvg.in)
+- 🔭 Currently working on **Flutter & Android projects**
+- 🌱 Learning **Riverpod** for state management
+- 👯 Looking to collaborate on **innovative mobile projects**
+- 💬 Ask me about **Flutter, Dart, Kotlin, Android, and anything tech!**
+- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yasinatagun)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 💻 Technologies & Tools
+
+![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
+![](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
+![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+![](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
+![](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
+![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+
+## 📚 Learning & Growth
+
+- 📖 Currently diving deeper into **Flutter Development**
+- 📝 Exploring **new libraries and frameworks** to enhance app performance
+- 🎯 Goal: **Contribute to open source projects** related to mobile development
+- 
+## 📁 Some Repositories
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=Contacts-App-BLoC&theme=vue)](https://github.com/yasinatagun/Contacts-App-BLoC)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=WeatherApp&theme=vue)](https://github.com/yasinatagun/WeatherApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=SurveyApp&theme=vue)](https://github.com/yasinatagun/SurveyApp)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=CryptoConvert&theme=vue)](https://github.com/yasinatagun/CryptoConvert)
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=yasinatagun&show_icons=true&theme=radical" width="100%" /></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinatagun&theme=radical" width="100%" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinatagun&theme=radical&layout=compact&card_width=495" width="495" height="195"/></td>
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=yasinatagun&theme=onedark)
+
+  </tr>
+</table>
+
