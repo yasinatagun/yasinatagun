@@ -1,32 +1,13 @@
 # 👋 Hello, I'm Yasin Atagün
-
-Welcome to my GitHub profile! I'm a passionate mobile app developer specializing in Flutter & Native Android development. With a constant learner mindset, I explore new technologies and improve my skills to create impactful mobile applications.
 I'm a 7/24 learner who believes that every day brings new opportunities to learn and grow. In my free time, I enjoy exploring new technologies and contributing to open-source projects.
 
 
-## 🚀 About Me
+# 🚀 About Me
 
-- 🔭 Currently working on **Flutter & Android projects**
-- 🌱 Learning **Riverpod** for state management
-- 👯 Looking to collaborate on **innovative mobile projects**
-- 💬 Ask me about **Flutter, Dart, Kotlin, Android, and anything tech!**
-- 📫 How to reach me: ![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yasinatagun)
+🔭 I’m currently working on Thronis as a Mobile Developer.<br>👯 I’m looking to collaborate on exciting projects.<br>🤝 I’m looking for help with anything that improve my knowledge.<br>🌱 I’m currently learning clean architecture and mvvm concepts.<br>💬 Ask me about anything about Flutter and Football :)<br>
 
-## 💻 Technologies & Tools
-
-![](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white)
-![](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat-square&logo=dart&logoColor=white)
-![](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white)
-![](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-![](https://img.shields.io/badge/MySQL-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white)
-![](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat-square&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+# 💻 Tech Stack:
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 📚 Learning & Growth
 
@@ -34,24 +15,15 @@ I'm a 7/24 learner who believes that every day brings new opportunities to learn
 - 📖 Flutter Mastery: Advancing my skills in Flutter Development to build more immersive and efficient mobile experiences.
 - 🚀 Tech Exploration: Venturing into new libraries and frameworks to boost app performance and user satisfaction.
 - 🌱 Open Source Contribution: Aiming to give back to the community by contributing to open-source projects within the mobile development sphere.
-- 🔍 Broader Horizons: Delving into cross-platform solutions and emerging technologies to stay versatile and innovative.
-  
-## 📁 Some Repositories
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=Contacts-App-BLoC&theme=vue)](https://github.com/yasinatagun/Contacts-App-BLoC)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=WeatherApp&theme=vue)](https://github.com/yasinatagun/WeatherApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=SurveyApp&theme=vue)](https://github.com/yasinatagun/SurveyApp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yasinatagun&repo=CryptoConvert&theme=vue)](https://github.com/yasinatagun/CryptoConvert)
+- 🔍 Broader Horizons: Delving into cross-platform solutions and emerging technologies to stay versatile and innovative. 
 
 ## 📊 GitHub Stats
 
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=yasinatagun&show_icons=true&theme=radical" width="100%" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=yasinatagun&theme=radical" width="100%" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinatagun&theme=radical&layout=compact&card_width=495" /></td>
   </tr>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasinatagun&theme=radical&layout=compact&card_width=495" width="495" height="195"/></td>
-  </tr>
+ 
 </table>
 
